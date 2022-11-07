@@ -1,4 +1,4 @@
-[![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/android/hero_image-fc5b7ec3e1de4498f823edc8ed1d345d16e52de1c2b4be98d3fb26df086df117.svg)]
+![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/android/hero_image-fc5b7ec3e1de4498f823edc8ed1d345d16e52de1c2b4be98d3fb26df086df117.svg)
 <h1 align="center">Hi 👋, I'm Eng.Ali joher</h1>
 <h3 align="center">Android developer from Syria</h3>
 
