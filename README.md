@@ -1,6 +1,8 @@
+[![MasterHead](https://dvokhk8ohqhd8.cloudfront.net/assets/engineering_types/android/hero_image-fc5b7ec3e1de4498f823edc8ed1d345d16e52de1c2b4be98d3fb26df086df117.svg)]
 <h1 align="center">Hi 👋, I'm Eng.Ali joher</h1>
 <h3 align="center">Android developer from Syria</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3lidev&label=Profile%20views&color=0e75b6&style=flat" alt="3lidev" /> </p>
 
 - 🔭 I’m currently working on **Pro CV Android App**
