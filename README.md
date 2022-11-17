@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/3li.jhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="3li.jhr" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/eng3lijoher/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="eng3lijoher" height="30" width="40" /></a>
 <a href="https://instagram.com/3li_jhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3li_jhr" height="30" width="40" /></a>
 <a href="https://t.me/EngAliJoher" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="EngAliJoher" height="30" width="40" /></a>
 <a href="https://wa.me/message/BHZRKQVH5I4YB1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="BHZRKQVH5I4YB1" height="40" width="50" /></a>
